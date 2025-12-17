@@ -140,7 +140,7 @@ Includes:
 
 ---
 
-## 📦 Project Deliverables
+## Project Deliverables
 
 The final submission includes:
 
@@ -154,7 +154,7 @@ The final submission includes:
 
 ---
 
-## 📌 How to Use the Dashboard
+##  How to Use the Dashboard
 
 1. Open the `.pbix` file in **Power BI Desktop**.
 2. Use slicers to filter data by **Region, Product Category, Customer Segment, or Date**.
