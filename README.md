@@ -105,16 +105,20 @@ Each KPI includes **Year-over-Year (YoY) % change** using time intelligence DAX 
 
 #### Supporting Visuals:
 
-* Sales by Region / Market (Map or Bar Chart)
-* Top Performing Products (by Sales or Profit)
+* Sales by Region / Market (Map)
+* Top Performing Products (by Profit)
 * Customer Segment Performance
 
 #### Interactive Slicers:
 
-* Region
+* Order Region
 * Product Category
 * Customer Segment
 * Date
+
+
+<img width="1312" height="723" alt="image" src="https://github.com/user-attachments/assets/898653ea-389f-4e8b-827d-edc408006db4" />
+
 
 ---
 
@@ -128,6 +132,9 @@ Includes:
 * Profit Breakdown by Category / Department
 * Late Delivery Risk by Region or Category
 * Sales Performance by Customer Segment and Region
+
+<img width="1276" height="725" alt="image" src="https://github.com/user-attachments/assets/ae9b46cd-646f-4a72-b052-73adaa5304cc" />
+
 
 ---
 
@@ -163,7 +170,7 @@ The final submission includes:
 
 ---
 
-## 🔍 Key Insights Generated (Sample)
+##   Key Insights Generated (Sample)
 
 * **Sales Growth:** Certain regions and markets consistently outperform others, indicating strong geographic demand concentration.
 * **Profitability Drivers:** High sales volume does not always translate to high profit, highlighting the impact of discounts and logistics costs.
@@ -172,7 +179,7 @@ The final submission includes:
 
 ---
 
-## 📢 Business Recommendations
+##  Business Recommendations
 
 * Optimize inventory and logistics in **high late-risk regions** to reduce delivery delays.
 * Focus marketing and upsell strategies on **high-profit customer segments**.
@@ -186,18 +193,4 @@ The final submission includes:
 **Role:** Junior Data Analyst
 **Project Type:** Data Analytics Capstone Project
 
----
-
-## ✅ Notes
-
-This project demonstrates best practices in:
-
-* Dimensional data modeling
-* Business-focused KPI design
-* Time intelligence with DAX
-* Executive-ready dashboard storytelling
-
----
-
-*End of README*
 
