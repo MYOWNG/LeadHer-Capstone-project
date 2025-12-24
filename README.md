@@ -159,18 +159,10 @@ The final submission includes:
 * DAX measures for KPIs and YoY calculations
 * A clean, professional, and user-friendly report layout
 
----
-
-##  How to Use the Dashboard
-
-1. Open the `.pbix` file in **Power BI Desktop**.
-2. Use slicers to filter data by **Region, Product Category, Customer Segment, or Date**.
-3. Navigate between the **Executive Summary** and **Deep Dive Analysis** pages to explore insights at different levels.
-4. Hover over visuals to view detailed tooltips and cross-filter results.
 
 ---
 
-##   Key Insights Generated (Sample)
+##   Key Insights Generated
 
 * **Sales Growth:** Certain regions and markets consistently outperform others, indicating strong geographic demand concentration.
 * **Profitability Drivers:** High sales volume does not always translate to high profit, highlighting the impact of discounts and logistics costs.
@@ -188,7 +180,7 @@ The final submission includes:
 
 ---
 
-## 👤 ONOME OYEDEJI
+## 👤 ONOME OTOMEWO
 
 **Role:** Junior Data Analyst
 **Project Type:** Data Analytics Capstone Project
